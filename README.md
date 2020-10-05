@@ -1,1 +1,1 @@
-### ✈Migrating to GitLab... ~o~
+### ✈Migrating to GitLab... ~ o ~
